@@ -1,4 +1,4 @@
-# [British Airways Virtual Data Science Internship]([https://website-name.com](https://www.theforage.com/simulations/british-airways/data-science-yqoz))
+# [British Airways Virtual Data Science Internship](https://www.theforage.com/simulations/british-airways/data-science-yqoz))
 
 ## Task 1: Web scraping to gain company insights
 - Scrape and collect customer feedback by analysing third-party data from [Skytrax](https://www.airlinequality.com/airline-reviews/british-airways/)
